@@ -1,7 +1,7 @@
 # Last Mile Delivery Batching Solution
 
 ## Overview
-In today’s last-mile delivery ecosystem, optimizing for speed and cost efficiencies is crucial. Smarter algorithms play a vital role in streamlining the delivery process. This solution utilizes Google OR Tools for solving the Travelling Salesman Problem (TSP) with pickup and delivery constraints, along with custom conditions to assign delivery personnel to orders efficiently.
+In today’s last-mile delivery ecosystem, optimizing for speed and cost efficiencies is crucial. Smarter algorithms play a vital role in streamlining the delivery process. This solution utilizes Google OR Tools for solving the Travelling Salesman Problem (VRP) with pickup and delivery constraints, along with custom conditions to assign delivery personnel to orders efficiently.
 
 ## Features
 - **Rule-Based Assignment**: The solution follows predefined rules to assign delivery personnel based on order characteristics such as source, destination, and readiness time.
